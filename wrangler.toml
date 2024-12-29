@@ -17,8 +17,8 @@ compatibility_date = "2024-12-28"
 
 # [[d1_databases]]
 # binding = "DB"
-# database_name = "my-database"
-# database_id = ""
+# database_name = "EnvHub"
+# database_id = "4e1e8373-cd21-4697-bacf-83afbadfbe0b"
 
 # [ai]
 # binding = "AI"
